@@ -1,2 +1,2 @@
 # Portfólio
-Crie um site onde conto sobre minhas experiências profissionais, acadêmicas e hobbies.
+Criei um site onde conto sobre minhas experiências profissionais, acadêmicas e hobbies.
