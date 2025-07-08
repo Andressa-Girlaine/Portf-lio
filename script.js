@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Engenheira de Software", "Desenvolvedora", "Designer", "Técnica em Redes de Computadores"],
+         strings:["Engenheira de Software", "Desenvolvedora", " Trainee em Cloud Computing", "Técnica em Redes de Computadores"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Engenheira de Software", "Desenvolvedora", "Designer", "Técnica em Redes de Computadores"],
+        strings:["Engenheira de Software", "Desenvolvedora", " Trainee em Cloud Computing", "Técnica em Redes de Computadores"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
